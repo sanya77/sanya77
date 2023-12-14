@@ -8,11 +8,11 @@
 После прохождения курсов, я разработал онлайн библиотеку на *Spring MVC* + *Hibernate* + *PostgresSQL* + *Thymeleaf*.
 Базу данных развернул в *Docker* контейнере для удобного использования.<br>
 #### Навыки:
-  * Java Core
-  * Spring Framework
-  * Hibernate
-  * PostgresSQL
-  * Thymeleaf
+  * *Java Core*
+  * *Spring Framework*
+  * *Hibernate*
+  * *PostgresSQL*
+  * *Thymeleaf*
   * Docker<br>
 #### Связь со мной:
 
