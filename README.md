@@ -18,7 +18,7 @@
 
  [![Telegram Badge](https://img.shields.io/badge/avt22-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/avt22)
  [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/id31915750)
- [![Telegram Badge](https://img.shields.io/badge/Yandex-darkorange?style=flat&logo=gmail&logoColor=white)](​​Aleksanderr7@yandex.ru)<br>
+ [![Telegram Badge](https://img.shields.io/badge/Yandex-darkorange?style=flat&logo=gmail&logoColor=white)](​​mailto:Aleksanderr7@yandex.ru)<br>
 
 
 
